@@ -7,7 +7,7 @@ Fast doubly-linked list with O(√n) average-case access time. Direct port of th
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/skiplist.git
+git clone https://github.com/MarkGourley/skiplist.git
 cd skiplist/python
 pip install -e .
 ```
